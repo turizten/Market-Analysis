@@ -31,7 +31,7 @@ Market_tool acts as a guiding light, swiftly providing a comprehensive overview 
 
 ## Getting Started
 
-
+## License
 ```
 Copyright (c) 2023 by Anton Hänström
 Permission is granted, free of charge, to any person obtaining a copy of this software
