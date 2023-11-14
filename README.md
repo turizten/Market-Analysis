@@ -6,6 +6,19 @@ When confronted with an extensive volume of market data, navigating through the 
 
 Market_tool acts as a guiding light, swiftly providing a comprehensive overview through key values and visualization tools. This tool simplifies the market analysis by offering a quick glance at essential metrics, enabling users to efficiently interpret and comprehend the market dynamics.
 ## Features
+**The intire market**
+* Total Revenue by Year for the whole market
+   *Hej
+* Total profit by Year for the whole market
+* Total profit margin by Year for the whole market
+* Total ROE (Return On Equity) by Year for the whole market
+* HHI (Herfindahl–Hirschman Index) by Year for the whole market
+
+**The largest companies in the market, you shoose the number of companies to focus on**
+* Total Revenue by Year for the largest companies
+* Total profit by Year for the largest companies
+* Total profit margin by Year for the largest companies
+* Total ROE (Return On Equity) by Year for the largest companies
 
 ## Getting Started
 
