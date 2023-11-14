@@ -8,17 +8,26 @@ Market_tool acts as a guiding light, swiftly providing a comprehensive overview 
 ## Features
 **The intire market**
 * Total Revenue by Year for the whole market
-  * Hej
+  * Line graph showing this
 * Total profit by Year for the whole market
+  * Line graph showing this 
 * Total profit margin by Year for the whole market
-* Total ROE (Return On Equity) by Year for the whole market
+  * Line graph showing this
+* Total ROE (Return On Equity) ratio by Year for the whole market
+* Total Revenue per Employee by Year for the whole market
 * HHI (Herfindahl–Hirschman Index) by Year for the whole market
 
 **The largest companies in the market, you shoose the number of companies to focus on**
 * Total Revenue by Year for the largest companies
+  * Line graph showing this
 * Total profit by Year for the largest companies
+  * Line graph showing this
 * Total profit margin by Year for the largest companies
-* Total ROE (Return On Equity) by Year for the largest companies
+  * Line graph showing this
+* Total ROE (Return On Equity) ratio by Year for the largest companies
+* Total Revenue per Employee by Year for the largest companies
+* Scatter plot of the largest companies' profit vs revenue with a regression line. This for every year
+* Scatter plot of the largest companies' Revenue per Employee vs revenue. This for every year
 
 ## Getting Started
 
