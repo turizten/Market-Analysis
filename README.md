@@ -8,7 +8,7 @@ Market_tool acts as a guiding light, swiftly providing a comprehensive overview 
 ## Features
 **The intire market**
 * Total Revenue by Year for the whole market
-   *Hej
+  * Hej
 * Total profit by Year for the whole market
 * Total profit margin by Year for the whole market
 * Total ROE (Return On Equity) by Year for the whole market
