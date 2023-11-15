@@ -70,6 +70,16 @@ This program utilizes data from columns 1, 11, 12, 13, 14, 18, 19, 20, and 21. T
 
 ### Where to store the data to make the program work as is
 
+In the same location you have the Market_tool.py code you create a folder named data. In this folder you put your file Data.csv
+
+You can Download my folder Market_tool and swap the Data.csv file with your own Data or try out the program with the data provided by me
+
+### How to use the program
+When you run the program, it will generate key values and graphs for the entire market.
+
+Afterward, you will be prompted to choose how many of the largest companies you want to focus on. Once you've selected the number, the program will provide key values and graphs specifically for those top companies. You can repeat this process as many times as you'd like, entering 'q' to end the program when you are satisfied.
+
+
 ## License
 ```
 Copyright (c) 2023 by Anton Hänström
