@@ -70,9 +70,9 @@ This program utilizes data from columns 1, 11, 12, 13, 14, 18, 19, 20, and 21. T
 
 ### Where to store the data to make the program work as is
 
-In the same location you have the Market_tool.py code you create a folder named data. In this folder you put your file Data.csv
+Within the same directory as the 'Market_tool.py' code, create a folder named 'data'. Place your 'Data.csv' file inside this 'data' folder.
 
-You can Download my folder Market_tool and swap the Data.csv file with your own Data or try out the program with the data provided by me
+Feel free to download the entire 'Market_tool' folder and substitute the 'Data.csv' file with your own dataset. Alternatively, you can explore the program using the sample data provided.
 
 ### How to use the program
 When you run the program, it will generate key values and graphs for the entire market.
