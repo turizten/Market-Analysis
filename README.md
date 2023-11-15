@@ -33,7 +33,7 @@ Market_tool acts as a guiding light, swiftly providing a comprehensive overview 
 ![result_text](images/img_01.png)
 
 **Example of one of the scatterplots obtained (largest companies' profit vs revenue with regression line, for every year)**
-![plot1](images/img_02.png)
+![plot2](images/img_03.png)
 
 ## Getting Started
 
