@@ -29,7 +29,11 @@ Market_tool acts as a guiding light, swiftly providing a comprehensive overview 
 * Scatter plot of the largest companies' profit vs revenue with a regression line. This for every year
 * Scatter plot of the largest companies' Revenue per Employee vs revenue. This for every year
 
+**Example of the data that is obtained**
 ![result_text](images/img_01.png)
+
+**Example of one of the scatterplots obtained (largest companies' profit vs revenue with regression line, for every year)**
+![plot1](images/img_02.png)
 
 ## Getting Started
 
