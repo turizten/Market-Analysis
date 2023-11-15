@@ -37,6 +37,37 @@ Market_tool acts as a guiding light, swiftly providing a comprehensive overview 
 
 ## Getting Started
 
+### Formating the data
+The data needs to be a csv file named Data.csv where the data starts from row 1. **NO HEADLINE!**
+
+**Each attribute should be in the column as Follows:**
+
+Column 1: Company_ID
+Column 2: company_type	
+Column 3: founded
+Column 4: region
+Column 5: county
+Column 6: Sum_operatingcosts
+Column 7: Material_assets
+Column 8: accounts_receivable
+Column 9: Cash_and_bank	
+Column 10: Sum_assets
+Column 11: Long_term_liabilities
+Column 12: Accounts_payable
+Column 13: Current_liabilities
+Column 14: Shareholders'_equity
+Column 15: Corporation_tax
+Column 16: Sum_financial_assets
+Column 17: Finished_goods
+Column 18: Employees
+Column 19: Revenue
+Column 20: Profit
+Column 21: Year
+
+This program utilizes data from columns 1, 11, 12, 13, 14, 18, 19, 20, and 21. Therefore, these attributes are essential for the program in its current state.
+
+### Where to store the data to make the program work as is
+
 ## License
 ```
 Copyright (c) 2023 by Anton Hänström
